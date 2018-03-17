@@ -35,21 +35,20 @@ The steps I took are:
 
 ### Proces in images
 
-+ Octagon patent
++ Octagon patent:
 ![Image](Octagon-patent.jpg)<br>
-+ Hand traced letters scan 
++ Hand traced letters scan: 
 ![Image](Octagon-scan.jpeg)<br>
-+ Hand traced letters edited scan 
++ Hand traced letters edited scan: 
 ![Image](Octagon-edited-scan.jpg)<br>
-+ Octagon first test
++ Octagon first test:
 ![Image](octagon-tests.jpg)<br>
-+ Octagon second test after adjusting
++ Octagon second test after adjusting:
 ![Image](octagon-tests2.jpg)<br>
-+ Octagon third test after adjusting letters
++ Octagon third test after adjusting letters:
 ![Image](octagon-tests3.jpg)<br>
-+ Octagon fourth test after adjusting spacing and letters
++ Octagon fourth test after adjusting spacing and letters:
 ![Image](octagon-tests4.jpg)<br>
-<img src="Image" width="50px">
 
 ## Available characters
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br>
