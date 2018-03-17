@@ -1,0 +1,2 @@
+# octagon-font
+I started with the question if it is possible to earn money with an open source font. And do you earn money with the product you are making (the font) or via other ways (like funding)? Before finding an answer to this question, I wanted to make an open source font myself and see what is necessary to make an open source font.  Because the patents of de database are all expired, I digitised: Octagon, designed by: William F. Capitain for Marder Patent #D0016105 Dated: May 26, 1885
