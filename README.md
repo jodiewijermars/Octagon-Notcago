@@ -36,7 +36,7 @@ The steps I took are:
 ### Proces in images
 
 + Octagon patent
-![Image](Octagon-patent.jpg | width=100)<br>
+![Image](Octagon-patent.jpg)<br>
 + Hand traced letters scan 
 ![Image](Octagon-scan.jpeg | width=100)<br>
 + Hand traced letters edited scan 
