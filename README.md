@@ -49,6 +49,8 @@ The steps I took are:
 ![Image](octagon-tests3.jpg)<br>
 + Octagon fourth test after adjusting spacing and letters:
 ![Image](octagon-tests4.jpg)<br>
++ Octagon fifth test after adjusting the width of the space:
+![Image](octagon-tests5.jpg)<br>
 
 ## Available characters
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br>
