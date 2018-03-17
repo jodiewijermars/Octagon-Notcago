@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		
+	    body {
+      animation: colorchange 50s; /* animation-name followed by duration in seconds*/
+         /* you could also use milliseconds (ms) or something like 2.5s */
+      -webkit-animation: colorchange 100s; /* Chrome and Safari */
+    }
+
+    @keyframes colorchange
+    {
+      5%   {background: white;}
+      15%  {background: yellow;}
+      25%  {background: pink;}
+      35%  {background: green;}
+      45% {background: orange;}
+
+    }
+
+    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    {
+      5%   {background: white;}
+      15%  {background: yellow;}
+      25%  {background: pink;}
+      35%  {background: green;}
+      45% {background: orange;}
+    }
+
+
+	</style>
+<body>
+
+<div style="font-family:Octagon-digitised-Regular; font-size: 150px; line-height: 100px; position: relative; top: -30px; left: 5px;" contenteditable="true">The quick brown fox jumps over the lazy dog! I'm editable; try out + have fun :-D</div>
+
+</body>
+</html>
