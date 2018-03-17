@@ -60,6 +60,10 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z <br>
 @ $ & <br>
 { [ } ] + <i>these characters are used for 4 uncommon characters </i>
 
+## Try out Octagon! 
+
+[Octagon-livetryout.html]
+
 # I need CONTRIBUTORS! 
 
 This typeface is the first I made myself. Because I'm inexperienced and I think this font is now in its first stage, I am searching for people who want to contribute and help lifting this font to a higher level.
