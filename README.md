@@ -33,11 +33,16 @@ The steps I took are:
 9. Exporting Illustrator letters to Glyphs download here
 10. Finetuning again and adjusting spacing 
 
-If you want to follow the proces in detailed steps go to the [ GitHub page] 
-Available characters
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-a b c d e f g h i j k l m n o p q r s t u v w x y z 
-1 2 3 4 5 6 7 8 9 0
-, . ! ? : ; ' 
-@ $ & 
+## Available characters
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br>
+a b c d e f g h i j k l m n o p q r s t u v w x y z <br>
+1 2 3 4 5 6 7 8 9 0<br>
+, . ! ? : ; ' <br>
+@ $ & <br>
 + { [ } ] these characters are used for 4 uncommon characters 
+
+# I need CONTRIBUTORS! 
+
+This typeface is the first I made myself. Because I'm inexperienced and I think this font is now in its first stage, I am searching for people who want to contribute and help lifting this font to a higher level.
+<br>
+In this repository you can find all the documents I made, <b>feel free to use and adjust, but always let me know what's happening. </b>
