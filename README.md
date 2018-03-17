@@ -1,5 +1,5 @@
 # Octagon-font
-I started with the question if it is possible to earn money with an open source font. And do you earn money with the product you are making (the font) or via other ways (like funding)? Before finding an answer to this question, I wanted to make an open source font myself and see what is necessary to make an open source font. Because the patents of de database are all expired, I digitised: Octagon, designed by: William F. Capitain for Marder Patent #D0016105 Dated: May 26, 1885
+I started with the question if it is possible to earn money with an open source font. And do you earn money with the product you are making (the font) or via other ways (like funding)? Before finding an answer to this question, I wanted to make an open source font myself and see what is necessary to make an open source font. Because the patents of de database are all expired, I digitised Octagon.
 
 ## Database: American Typeface Design Patents
 [http://fontdata.com/american-typeface-design-patents/]
@@ -23,15 +23,27 @@ Dated: May 26, 1885
 
 The steps I took are: 
 1. Searching if font is already digitised 
-2. Downloading the patent scan from database 
+2. Downloading the patent scan from database [Octagon-patent.jpg]
 3. Printing typeface as high as possible 
 4. Tracing letters by hand 
-5. Scanning hand traced letters on a high resolution 
-6. Adjusting scan, removing grain and faults made by hand 
-7. Uploading scan in Adobe Illustrator, tracing lines by hand 
+5. Scanning hand traced letters on a high resolution [Octagon-scan.jpeg]
+6. Adjusting scan, removing grain and faults made by hand [Octagon-edited-scan.jpg]
+7. Uploading scan in Adobe Illustrator, tracing lines by hand [Octagon.eps]
 8. Finetuning lines, making solid paths 
-9. Exporting Illustrator letters to Glyphs download here
+9. Exporting Illustrator letters to Glyphs [Octagon.glyphs] 
 10. Finetuning again and adjusting spacing 
+
+### Proces in images
+
+![Image](Octagon-patent.jpg)
+![Image](Octagon-scan.jpeg)
+![Image](Octagon-edited-scan.jpg)
+![Image](octagon-tests.jpg)
+![Image](octagon-tests2.jpg)
+![Image](octagon-tests3.jpg)
+![Image](octagon-tests4.jpg)
+
+
 
 ## Available characters
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br>
@@ -39,7 +51,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z <br>
 1 2 3 4 5 6 7 8 9 0<br>
 , . ! ? : ; ' <br>
 @ $ & <br>
-+ { [ } ] these characters are used for 4 uncommon characters 
+{ [ } ] + <i>these characters are used for 4 uncommon characters </i>
 
 # I need CONTRIBUTORS! 
 
