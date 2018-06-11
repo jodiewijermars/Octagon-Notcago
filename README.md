@@ -1,5 +1,8 @@
-# Octagon-font
-I started with the question if it is possible to earn money with an open source font. And do you earn money with the product you are making (the font) or via other ways (like funding)? Before finding an answer to this question, I wanted to make an open source font myself and see what is necessary to make an open source font. Because the patents of de database are all expired, I digitised Octagon.
+# Octagon>Notcago
+I started with the question if it is possible to earn money with an open source font. And do you earn money with the product you are making (the font) or via other ways (like funding)? Before finding an answer to this question, I wanted to make an open source font myself and see what is necessary to make an open source font. Because the patents of de database are all expired, I digitised Octagon to a new typeface: Notcago.
+
+## Project Explanation
+[https://wiki.gda.digital/index.php?title=User:Jodiew/Notcago]
 
 ## Database: American Typeface Design Patents
 [http://fontdata.com/american-typeface-design-patents/]
@@ -33,6 +36,7 @@ The steps I took are:
 9. Exporting Illustrator letters to Glyphs [Octagon.glyphs] 
 10. Finetuning again and adjusting spacing 
 
+
 ### Proces in images
 
 + Octagon patent:
@@ -58,14 +62,16 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z <br>
 1 2 3 4 5 6 7 8 9 0<br>
 , . ! ? : ; ' <br>
 @ $ & <br>
-{ [ } ] + <i>these characters are used for 4 uncommon characters </i>
 
-## Try out Octagon! 
+## Code points
+Because Octagon exists of 78 characters, empty code points in Notcago are filled with elements that explain where the original typeface is coming from, how typeface design patents and open fonts work and what code points are.
 
-[Octagon-livetryout.html]
+## Try out Notcago! 
+
+[https://jodiewijermars.github.io/notcago/]
 
 # I need CONTRIBUTORS! 
 
-This typeface is the first I made myself. Because I'm inexperienced and I think this font is now in its first stage, I am searching for people who want to contribute and help lifting this font to a higher level.
+This typeface is the first one I made myself. Because I'm inexperienced and I think this font is now in its first stage, I am searching for people who want to contribute and help lifting this font up to a higher level.
 <br>
 In this repository you can find all the documents I made, <b>feel free to use and adjust, but always let me know what's happening. </b>
