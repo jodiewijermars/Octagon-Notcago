@@ -68,7 +68,7 @@ Because Octagon exists of 78 characters, empty code points in Notcago are filled
 
 ## Try out Notcago! 
 
-[https://jodiewijermars.github.io/notcago/]
+[https://jodiewijermars.github.io/Notcago/]
 
 # I need CONTRIBUTORS! 
 
