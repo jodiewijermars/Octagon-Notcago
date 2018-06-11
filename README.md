@@ -72,6 +72,8 @@ Because Octagon exists of 78 characters, empty code points in Notcago are filled
 
 # I need CONTRIBUTORS! 
 
+DOWNLOAD NOTCAGO HERE [Notcago-Regular.ttf]
+
 This typeface is the first one I made myself. Because I'm inexperienced and I think this font is now in its first stage, I am searching for people who want to contribute and help lifting this font up to a higher level.
 <br>
 In this repository you can find all the documents I made, <b>feel free to use and adjust, but always let me know what's happening. </b>
